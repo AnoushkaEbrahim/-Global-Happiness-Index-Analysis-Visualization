@@ -1,4 +1,4 @@
-# -Global# 🌍 Global Happiness Index Analysis & Visualization
+# 🌍 Global Happiness Index Analysis & Visualization
 
 ## 📌 Project Overview
 
